@@ -1,5 +1,6 @@
 /*
-*Daniel Shevchyk - 9162185445
+*Contact Information:
+*Daniel Shevchyk - 9162185445 - danielshevchyk@gmail.com
 *
 *
 */
